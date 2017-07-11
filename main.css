@@ -28,6 +28,17 @@ header p {
   margin: 0;
 }
 
+.container {
+  width: 90%;
+  height: 20%;
+}
+
+.jumbotron {
+  width: 90%;
+  height: 20%;
+}
+
+
 .jumbotron h2 {
   font-size: 60px;
   font-weight: 700;
